@@ -1,6 +1,8 @@
 # TAMIDCodingChallenge
 Coding challenge in Tech application for TAMID at BU
 
+DEATH BY PROBLEM, Social Distancing for exams:
+
 This is my general thought process:
 
 1. Give each spot in the 2-D array a number, and create a new list that contains the numbers of each non-broken seat.
