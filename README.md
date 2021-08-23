@@ -1,7 +1,7 @@
 # TAMIDCodingChallenge
 Coding challenge in Tech application for TAMID at BU
 
-DEATH BY PROBLEM, Social Distancing for exams:
+## DEATH BY PROBLEM, Social Distancing for exams:
 
 This is my general thought process:
 
